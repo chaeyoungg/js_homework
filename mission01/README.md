@@ -27,5 +27,6 @@ form을 통해 아이디와 비밀번호를 입력받는다.
 
 ### 3. How to run the code
 - 깃허브에서 해당 프로그램을 내려받는다. 
-- vsc의 live server 확장 프로그램을 통해 테스트한다. 
+- vsc의 live server 확장 프로그램을 통해 테스트한다.
+  ![live_server](https://github.com/chaeyoungg/js_naverlogin/blob/main/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%84%9C%EB%B2%84.png)
 
